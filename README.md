@@ -5,6 +5,7 @@
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]&nbsp;
+---
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
