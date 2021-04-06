@@ -1,6 +1,11 @@
 ### 👋Hi, my name is **Safonov Vlad**!
 ## I'm a beginner *Front-end developer* from Sevastopol.
-
+## 🤝 Connect with me:
+[<img align="left" alt="webDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="webDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 ### 💻Technology Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
@@ -21,6 +26,12 @@
 ### 📱 Telegram, Instagram: @saf_sv
 
 
+[youtube]: https://youtube.com/YauhenKavalchuk
+[instagram]: https://instagram.com/YauhenKavalchuk
+[linkedin]: https://linkedin.com/in/YauhenKavalchuk
+[vk]: https://vk.com/YauhenKavalchuk
+[twitter]: https://twitter.com/YauhenKavalchuk
+[github]: https://github.com/YauhenKavalchuk
 
 
 
