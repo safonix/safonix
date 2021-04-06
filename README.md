@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
-[gmail]:https://safonix@br.ru
+[gmail]:https://safonix@bk.ru
 [telegram]:https://t.me/saf_sv
 [instagram]: https://instagram.com/saf_sv
 [vk]: https://vk.com/safonov_vlad
