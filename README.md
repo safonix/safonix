@@ -1,6 +1,6 @@
 ### 👋Hi, my name is **Safonov Vlad**!
 ## I'm a beginner *Front-end developer* from Sevastopol.
-###🤝 Connect with me:
+
 ### 💻Technology Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
