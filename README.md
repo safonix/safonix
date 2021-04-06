@@ -2,6 +2,8 @@
 ## I'm a beginner *Front-end developer* from Sevastopol.
 ### 🤝 Connect with me:
 [<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
+[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]&nbsp;
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
@@ -12,11 +14,9 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
-### ✉ Mail: safonix@bk.ru
-### 📱 Telegram, Instagram: @saf_sv
 
-
-
+[gmail]:https://safonix@br.ru
+[telegram]:https://t.me/saf_sv
 [instagram]: https://instagram.com/saf_sv
 [vk]: https://vk.com/safonov_vlad
 [github]: https://github.com/safonix
