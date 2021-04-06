@@ -1,8 +1,9 @@
 # 👋Hi, my name is **Safonov Vlad**!
 ## I'm a beginner *Front-end developer* from Sevastopol.
-
-
-
+### Languages and Technologies
+![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
+![HTML](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
+![HTML](https://img.shields.io/badge/-SASS-090909?style=flat&logo=SASS)
 
 <!--
 
