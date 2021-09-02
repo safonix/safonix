@@ -20,7 +20,7 @@
 
 
 [gmail]:mailto:safonix@bk.ru
-[telegram]:https://t.me/saf_sv
+[telegram]:https://t.me/safonix
 [instagram]: https://instagram.com/saf_sv
 [vk]: https://vk.com/safonov_vlad
 [github]: https://github.com/safonix
