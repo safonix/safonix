@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=flat&logo=SASS)
-![GULP](https://img.shields.io/badge/-SASS-090909?style=flat&logo=GULP)
+![GULP](https://img.shields.io/badge/-GULP-090909?style=flat&logo=GULP)
 ### 🛠 Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
