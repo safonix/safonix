@@ -19,6 +19,18 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=safonix&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=safonix&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 
 [gmail]:mailto:safonix@bk.ru
