@@ -9,7 +9,7 @@
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
-![JS](https://img.shields.io/badge/-javascript-090909?style=flat&logo=JS)
+![JS](https://img.shields.io/badge/-JS-090909?style=flat&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=flat&logo=SASS)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=flat&logo=GULP)
 ### 🛠 Tools:
