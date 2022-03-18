@@ -21,7 +21,7 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=flat&logo=WebStorm)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
 ![NPM](https://img.shields.io/badge/-npm-090909?style=flat&logo=NPM)
-![GULP](https://img.shields.io/badge/-GULP-090909?style=flat&logo=GULP)
+![GULP](https://img.shields.io/badge/-Gulp-090909?style=flat&logo=GULP)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
 ### 💾 My projects:
