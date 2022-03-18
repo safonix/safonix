@@ -1,9 +1,10 @@
 ### Hi, my name is *Safonov Vlad*!  I'm a *Junior Frontend-developer*👨‍💻
+---
 ### 📱 Connect with me:
 [<img align="left" alt="webDev | Instagram" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"/>][instagram]
 [<img align="left" alt="webDev | Telegram" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png"/>][telegram]
 [<img align="left" alt="webDev | Mail" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>][mail]
-[<img align="left" alt="webDev | VK" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/vk_icon-icons.com_65934.png" />][vk]&nbsp;
+[<img align="left" alt="webDev | VK" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/vk_icon-icons.com_65934.png" />][vk]
 ---
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
@@ -18,6 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
+---
 
 ### 💾 My projects:
 
