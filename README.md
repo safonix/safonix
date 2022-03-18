@@ -1,9 +1,9 @@
-### 👋Hi, my name is **Safonov Vlad**!
-## I'm a beginner *Frontend - developer* from Sevastopol.
+### 👋Hi, my name is *Safonov Vlad*!
+## I'm a *Junior Frontend-developer* from Sevastopol.
 ### 📱 Connect with me:
 [<img align="left" alt="webDev | Instagram" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"/>][instagram]
 [<img align="left" alt="webDev | Telegram" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png"/>][telegram]
-[<img align="left" alt="webDev | Mail" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>][gmail]
+[<img align="left" alt="webDev | Mail" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>][mail]
 [<img align="left" alt="webDev | VK" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/vk_icon-icons.com_65934.png" />][vk]&nbsp;
 ---
 ### 💻Technology Stack:
@@ -35,7 +35,7 @@
 </table>
 
 
-[gmail]:mailto:safonix@bk.ru
+[mail]:mailto:safonix@bk.ru
 [telegram]:https://t.me/safonix
 [instagram]: https://instagram.com/saf_sv
 [vk]: https://vk.com/safonov_vlad
