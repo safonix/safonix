@@ -1,10 +1,10 @@
 ### 👋Hi, my name is **Safonov Vlad**!
 ## I'm a beginner *Frontend - developer* from Sevastopol.
 ### 🤝 Connect with me:
-[<img align="left" alt="webDev | Instagram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>][instagram]
-[<img align="left" alt="webDev | Telegram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png"/>][telegram]
-[<img align="left" alt="webDev | Mail" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"/>][gmail]
-[<img align="left" alt="webDev | VK" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png" />][vk]&nbsp;
+[<img align="left" alt="webDev | Instagram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png"/>][instagram]
+[<img align="left" alt="webDev | Telegram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png"/>][telegram]
+[<img align="left" alt="webDev | Mail" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>][gmail]
+[<img align="left" alt="webDev | VK" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/832/PNG/512/vk_icon-icons.com_66681.png" />][vk]&nbsp;
 ---
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
