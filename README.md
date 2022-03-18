@@ -2,7 +2,7 @@
 ## I'm a beginner *Frontend - developer* from Sevastopol.
 ### 🤝 Connect with me:
 [<img align="left" alt="webDev | Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"/>][instagram]
-[<img align="left" alt="webDev | VK" width="22px" src="https://img.icons8.com/color/344/telegram-app--v1.png"/>][telegram]
+[<img align="left" alt="webDev | VK" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"/>][telegram]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]&nbsp;
 ---
