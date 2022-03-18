@@ -9,16 +9,18 @@
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
+[JS](https://img.shields.io/badge/-JS-090909?style=flat&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=flat&logo=SASS)
-![JQUERY](https://img.shields.io/badge/-jQuery-090909?style=flat&logo=jquery)
-![JS](https://img.shields.io/badge/-JS-090909?style=flat&logo=javascript)
+![VUE](https://img.shields.io/badge/-Vue-090909?style=flat&logo=VUE)
+
+
 
 
 ### 🔧 Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=flat&logo=WebStorm)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![NPM](https://img.shields.io/badge/-NPM-333333?style=flat&logo=NPM)
+![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=NPM)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=flat&logo=GULP)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
