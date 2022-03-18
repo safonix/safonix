@@ -27,7 +27,8 @@
 ### 💾 My projects:
 ***https://pulse.frontsaf.ru***<br>
 ***https://ncp.frontsaf.ru***<br>
-***https://portfolio.frontsaf.ru***
+***https://portfolio.frontsaf.ru***<br>
+***https://safonix.github.io/ismart/***
 
 ### ⚙️ GitHub Analytics
 
