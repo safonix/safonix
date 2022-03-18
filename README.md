@@ -11,7 +11,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/-JS-090909?style=flat&logo=javascript)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=flat&logo=SASS)
-![VUE](https://img.shields.io/badge/-Vue-090909?style=flat&logo=VUE)
+![VUE](https://img.shields.io/badge/-Vue-090909?style=flat&logo=VUE.js)
 
 
 
