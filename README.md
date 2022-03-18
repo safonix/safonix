@@ -25,7 +25,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
 ### 💾 My projects:
-***https://pulse.frontsaf.ru***&nbsp;
+***https://pulse.frontsaf.ru*** &nbsp;
 ***https://ncp.frontsaf.ru/***
 
 ### ⚙️ GitHub Analytics
