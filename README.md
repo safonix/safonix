@@ -22,7 +22,7 @@
 
 
 ### 💾 My projects:
-    ***https://pulse.frontsaf.ru***
+***https://pulse.frontsaf.ru***
 
 ### ⚙️ GitHub Analytics
 
