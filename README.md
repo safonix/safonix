@@ -26,7 +26,7 @@
 
 ### 💾 My projects:
 ***https://pulse.frontsaf.ru***<br>
-***https://ncp.frontsaf.ru/***
+***https://ncp.frontsaf.ru***
 
 ### ⚙️ GitHub Analytics
 
