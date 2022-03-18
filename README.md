@@ -22,7 +22,7 @@
 
 
 ### 💾 My projects:
-<font size=24>*https://pulse.frontsaf.ru*</font>
+<font size=50>*https://pulse.frontsaf.ru*</font>
 
 ### ⚙️ GitHub Analytics
 
