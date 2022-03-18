@@ -20,9 +20,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=flat&logo=WebStorm)
 ![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
-![NPM](https://img.shields.io/badge/-npm-090909?style=flat&logo=NPM)
 ![GULP](https://img.shields.io/badge/-Gulp-090909?style=flat&logo=GULP)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
+![webpack](https://img.shields.io/badge/-webpack-090909?style=flat&logo=webpack)
+![NPM](https://img.shields.io/badge/-npm-090909?style=flat&logo=NPM)
 
 ### 💾 My projects:
 ***https://pulse.frontsaf.ru***<br>
