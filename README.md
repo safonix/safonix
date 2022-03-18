@@ -6,7 +6,6 @@
 [<img align="left" alt="webDev | VK" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/vk_icon-icons.com_65934.png" />][vk]&nbsp;
 
 ---
-
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
