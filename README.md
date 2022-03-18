@@ -6,7 +6,6 @@
 [<img align="left" alt="webDev | Mail" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/mail_ru_logo_icon_147267.png"/>][mail]
 [<img align="left" alt="webDev | VK" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/vk_icon-icons.com_65934.png" />][vk]&nbsp;
 
-
 ### 💻Technology Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=flat&logo=css3)
@@ -20,7 +19,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
-
 
 ### 💾 My projects:
 ***https://pulse.frontsaf.ru***
