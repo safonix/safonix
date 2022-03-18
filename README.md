@@ -17,10 +17,10 @@
 
 
 ### 🔧 Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=flat&logo=WebStorm)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=NPM)
+![Git](https://img.shields.io/badge/-Git-090909?style=flat&logo=git)
+![NPM](https://img.shields.io/badge/-npm-090909?style=flat&logo=NPM)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=flat&logo=GULP)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=flat&logo=Figma)
 
