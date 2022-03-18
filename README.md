@@ -3,7 +3,7 @@
 ### 🤝 Connect with me:
 [<img align="left" alt="webDev | Instagram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>][instagram]
 [<img align="left" alt="webDev | Telegram" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/telegram_tile_logo_icon_169640.png"/>][telegram]
-[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="webDev | Mail" width="26px" height="26px" src="https://cdn.icon-icons.com/icons2/294/PNG/256/Mail_31108.png"/>][gmail]
 [<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]&nbsp;
 ---
 ### 💻Technology Stack:
